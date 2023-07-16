@@ -68,8 +68,6 @@ For detailed instructions on using Edcom, refer to the [documentation](https://e
 
 ## Architecture
 
-![Edcom Architecture](https://example.com/edcom-architecture.png)
-
 Edcom follows a distributed architecture that incorporates microservices and edge devices. The architecture consists of the following components:
 
 - **Edge Devices**: These are the IoT devices located at the edge of the network, such as sensors, gateways, or edge servers. Edcom deploys microservices on these devices for local data processing.
