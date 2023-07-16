@@ -86,7 +86,7 @@ We welcome contributions to Edcom! If you want to contribute to the project, ple
 
 ## License
 
-Edcom is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute Edcom in accordance with the terms of the license. Please refer to the [LICENSE](https://example.com/edcom/LICENSE) file for more information.
+Edcom is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute Edcom in accordance with the terms of the license. Please refer to the [LICENSE](https://github.com/KOSASIH/Edcom/blob/main/LICENSE) file for more information.
 
 ## Requirements
 
